@@ -1,4 +1,5 @@
 *{
+    background: url(/wbelements/unnamed.jpg);
     background-color: #031321;
     color: cornsilk;
     text-align: center;
@@ -6,6 +7,8 @@
     align-self: center;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+
+
 
 h1{
     font-size: 50px;
@@ -131,10 +134,11 @@ a:active {
 */
 
 .a1{
-    font-size: 22px;
+    font-size: 14px;
     padding-top: 30px;
 }
 
 footer{
-    padding-top: 170px;
+    padding-top: 20px;
 }
+
